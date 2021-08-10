@@ -12,9 +12,7 @@ namespace SalesWebMVC.Models
 
         public Departament()
         {
-
         }
-
         public Departament(int id, string name)
         {
             Id = id;
